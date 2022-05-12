@@ -1,0 +1,4 @@
+YOLO_PATH = "yolo-coco"
+MIN_CONFIDENCE = 0.7
+NON_MAXIMA_SUPP_THRESH = 0.3
+MIN_DISTANCE = 120 #IN PIXELS 80 for foreign 120 for local
